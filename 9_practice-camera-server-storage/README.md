@@ -1,0 +1,1 @@
+File server berada pada folder server-storage-camera.

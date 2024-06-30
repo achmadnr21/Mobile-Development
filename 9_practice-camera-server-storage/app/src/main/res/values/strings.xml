@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice Camera Server Storage</string>
+    <string name="add_new_photo">Tambah foto baru</string>
+    <string name="refresh_photo">Refresh data foto</string>
+    <string name="set_server_url">IP Server</string>
+    <string name="ok">Simpan</string>
+    <string name="cancel">Batal</string>
+</resources>
